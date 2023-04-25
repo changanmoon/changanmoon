@@ -6,14 +6,17 @@ This is my personal GitHub account. 請多多指教。
 - Trilingual (to some extent) -> {zh: 中文, en: English, es: Español}
 
 ### 💻 My currently used platforms
-|  Logo | Version  |
-|---|---|
-| [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/)  | macOS Ventura |
-| [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)  | Windows 11 |
-| [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/) | Ubuntu 22.04 |
-| [![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/) | Fedora 38 |
-| [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/) | iOS 16 |
-| [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) | Android 13 |
+[![macOS](https://img.shields.io/badge/macOS%2013-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/)
+[![Windows](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=FFFFFF&labelColor=0078D4)](https://www.microsoft.com/windows)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
+[![Fedora](https://img.shields.io/badge/Fedora%2037-294172?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
+[![iOS](https://img.shields.io/badge/iOS%2016-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/)
+[![Android](https://img.shields.io/badge/Android%13-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 
 ### 🔢 My GitHub stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=changanmoon)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📫 Contact me!
+[![Twitter](https://img.shields.io/twitter/follow/changanmoon?style=flat-square&color=1da1f2&label=changanmoon&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/changanmoon)
+[![zhihu](https://img.shields.io/badge/-冯柒柒-blue?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/changanmoon)
+[![Quora](https://img.shields.io/badge/Tiffany%20Feng-B92B27?style=flat-square&logo=quora&logoColor=ffffff&labelColor=B92B27)](https://www.quora.com/profile/Tiffany-Feng-14)
