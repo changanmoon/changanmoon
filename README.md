@@ -1,7 +1,7 @@
 ### 👋 ¡Hola todos!
 This is my personal GitHub account. 請多多指教。
 
-### 🙋‍♀️ About me
+### 🙋‍♀️ A bit about myself
 - Mainly focus on macOS/iOS development, but I'm also interested in Android
 - Trilingual (to some extent) -> {zh: 中文, en: English, es: Español}
 
