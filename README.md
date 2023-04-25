@@ -18,6 +18,6 @@ This is my personal GitHub account. 請多多指教。
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=changanmoon)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📫 Contact me!
-[![Twitter](https://img.shields.io/twitter/follow/changanmoon?style=flat-square&color=1da1f2&label=changanmoon&logo=twitter&logoColor=FFFFFF&labelColor=1DA1F2)](https://twitter.com/changanmoon)
-[![zhihu](https://img.shields.io/badge/-冯柒柒-blue?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/changanmoon)
-[![Quora](https://img.shields.io/badge/Tiffany%20Feng-B92B27?style=flat-square&logo=quora&logoColor=ffffff&labelColor=B92B27)](https://www.quora.com/profile/Tiffany-Feng-14)
+[![Twitter](https://img.shields.io/badge/@changanmoon-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/changanmoon)
+[![Zhihu](https://img.shields.io/badge/-冯柒柒-0084ff?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/changanmoon)
+[![Quora](https://img.shields.io/badge/Tiffany%20Feng-B92B27?style=flat-square&logo=quora&logoColor=white&labelColor=B92B27)](https://www.quora.com/profile/Tiffany-Feng-14)
