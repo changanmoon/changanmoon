@@ -2,11 +2,11 @@
 This is my personal GitHub account. 請多多指教。
 
 ### 🙋‍♀️ A bit about myself
-- Mainly focus on macOS/iOS development, but I'm also interested in Android
-- Trilingual (to some extent) -> {zh: 中文, en: English, es: Español}
+- Mainly focus on macOS/iOS development, but I'm also interested in Android stuffs
+- Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
 
 ### 💻 My currently used platforms
-[![macOS 13](https://img.shields.io/badge/macOS%2013-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/)
+[![macOS 13 Ventura](https://img.shields.io/badge/macOS%2013%20Ventura-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/macos/)
 [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=windows11&logoColor=FFFFFF&labelColor=0078D4)](https://www.microsoft.com/windows)
 [![Windows MultiPoint Server 2012](https://img.shields.io/badge/Windows%20MultiPoint%20Server%202012-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://en.wikipedia.org/wiki/Windows_MultiPoint_Server)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
