@@ -14,6 +14,13 @@ This is my personal GitHub account. 請多多指教。
 [![iOS](https://img.shields.io/badge/iOS%2016-4F4F4F?style=flat-square&logo=apple&logoColor=FFFFFF&labelColor=4F4F4F)](https://www.apple.com/ios/)
 [![Android](https://img.shields.io/badge/Android%2013-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 
+### 🌱 Programming Languages
+![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=fff)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599c?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![Swift](https://img.shields.io/badge/-Swift-f05138?style=flat-square&logo=Swift&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
+![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
+
 ### 🔢 My GitHub stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=changanmoon)](https://github.com/anuraghazra/github-readme-stats)
 
