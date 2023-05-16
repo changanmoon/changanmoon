@@ -20,6 +20,7 @@ This is my personal GitHub account. 請多多指教。
 ![Swift](https://img.shields.io/badge/-Swift-f05138?style=flat-square&logo=Swift&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
+![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=fff)
 
 ### 🔢 My GitHub stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=changanmoon)](https://github.com/anuraghazra/github-readme-stats)
