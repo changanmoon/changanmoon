@@ -29,4 +29,5 @@ This is my personal GitHub account. 請多多指教。
 ### 📫 Contact me!
 [![Twitter](https://img.shields.io/badge/@changanmoon-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/changanmoon)
 [![Zhihu](https://img.shields.io/badge/-%E5%86%AF%E6%9F%92%E6%9F%92-0084ff?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/changanmoon)
-[![Quora](https://img.shields.io/badge/Tiffany%20Feng-B92B27?style=flat-square&logo=quora&logoColor=white)](https://www.quora.com/profile/Tiffany-Feng-14)
+[![Quora](https://img.shields.io/badge/Tiffany%20Feng-b92b27?style=flat-square&logo=quora&logoColor=white)](https://www.quora.com/profile/Tiffany-Feng-14)
+[![Mastodon](https://img.shields.io/badge/changanmoon-6364ff?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@changanmoon)
