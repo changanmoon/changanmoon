@@ -2,15 +2,13 @@
 This is my personal GitHub account. 請多多指教。
 
 ### 🙋‍♀️ A bit about myself
-- Mainly focus on macOS/iOS development, but I'm also interested in Android stuffs
+- I mainly focus on macOS/iOS development, but I'm also interested in Android stuff
 - Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
 
 ### 💻 My currently used platforms
 [![macOS](https://img.shields.io/badge/macOS%2013-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
-[![Windows MultiPoint Server](https://img.shields.io/badge/Windows%20MultiPoint%20Server%202012-00bbff?style=flat-square&logo=Windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_MultiPoint_Server)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
-[![NixOS](https://img.shields.io/badge/NixOS%2022.11-5277c3?style=flat-square&logo=nixos&logoColor=white)](https://nixos.org/download.html)
 [![Fedora](https://img.shields.io/badge/Fedora%2037-294172?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
 [![iOS](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 [![Android](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
