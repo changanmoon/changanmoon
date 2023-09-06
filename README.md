@@ -21,9 +21,6 @@ This is my personal GitHub account. 請多多指教。
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
 
-### 🔢 My GitHub stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=changanmoon)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📫 Contact me!
 [![X](https://img.shields.io/badge/@changanmoon-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/changanmoon)
 [![Zhihu](https://img.shields.io/badge/-%E5%86%AF%E6%9F%92%E6%9F%92-0084ff?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/changanmoon)
