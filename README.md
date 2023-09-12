@@ -26,3 +26,7 @@ This is my personal GitHub account. 請多多指教。
 [![Zhihu](https://img.shields.io/badge/-%E5%86%AF%E6%9F%92%E6%9F%92-0084ff?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/changanmoon)
 [![Quora](https://img.shields.io/badge/Tiffany%20Fung-b92b27?style=flat-square&logo=quora&logoColor=white)](https://www.quora.com/profile/Tiffany-Fung-46)
 [![Mastodon](https://img.shields.io/badge/changanmoon-6364ff?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@changanmoon)
+
+### 🔢 Special counts
+![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) </br></br>
+![:name](https://count.getloli.com/get/@changanmoon?theme=asoul) 
