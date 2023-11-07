@@ -6,11 +6,11 @@ This is my personal GitHub account. 請多多指教。
 - Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
 
 ### 💻 My currently used platforms
-[![macOS](https://img.shields.io/badge/macOS%2013-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS%2014-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
 [![Windows](https://img.shields.io/badge/Windows%2011-0078d4?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
 [![Fedora](https://img.shields.io/badge/Fedora%2037-294172?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
-[![iOS](https://img.shields.io/badge/iOS%2016-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
+[![iOS](https://img.shields.io/badge/iOS%2017-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
 [![Android](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 
 ### 🌱 Programming Languages
