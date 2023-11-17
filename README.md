@@ -28,4 +28,3 @@ This is my personal GitHub account. 請多多指教。
 
 ### 🔢 Special counts
 ![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) </br></br>
-![:name](https://count.getloli.com/get/@changanmoon?theme=asoul) 
