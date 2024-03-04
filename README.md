@@ -11,7 +11,8 @@ This is my personal GitHub account. 請多多指教。
 [![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
 [![Fedora](https://img.shields.io/badge/Fedora%2037-294172?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
 [![iOS](https://img.shields.io/badge/iOS%2017-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
-[![Android](https://img.shields.io/badge/Android%2013-3ddc84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![iPadOS](https://img.shields.io/badge/iPadOS%2017-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ipados/)
+[![Android](https://img.shields.io/badge/Android%2014-3ddc84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 
 ### 🌱 Programming Languages
 ![C](https://img.shields.io/badge/-C-a8b9cc?style=flat-square&logo=C&logoColor=white)
