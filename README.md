@@ -28,6 +28,6 @@ This is my personal GitHub account. 請多多指教。
 [![Mastodon](https://img.shields.io/badge/changanmoon-6364ff?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@changanmoon)
 [![Telegram](https://img.shields.io/badge/changanmoon-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/changanmoon)
 
-### 🔢 Special counts
+### 🔢 Special counters
 ![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) </br></br>
 ![Moe-Counter](https://count.getloli.com/get/@changanmoon?theme=asoul)
