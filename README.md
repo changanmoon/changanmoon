@@ -3,6 +3,7 @@ This is my personal GitHub account. 請多多指教。
 
 ### 🙋‍♀️ A bit about myself
 - I mainly focus on macOS/iOS development, but I'm also interested in Android stuff
+- Currently working on: Chinese (Hong Kong) `zh-HK` localization
 - Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
 
 ### 💻 My currently used platforms
