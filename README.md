@@ -3,8 +3,8 @@ This is my personal GitHub account. 請多多指教。
 
 ### 🙋‍♀️ A bit about myself
 - I mainly focus on macOS/iOS development, but I'm also interested in Android stuff
-- Currently working on: Chinese (Hong Kong) `zh-HK` localization
 - Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
+- Currently working on: **Chinese (Hong Kong) `zh-HK` localization**
 
 ### 💻 My currently used platforms
 [![macOS](https://img.shields.io/badge/macOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
@@ -21,6 +21,9 @@ This is my personal GitHub account. 請多多指教。
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white)
+
+### 📝 My GitHub Gists
+[Check out here](https://gist.github.com/changanmoon)
 
 ### 📫 Contact me!
 [![X](https://img.shields.io/badge/@changanmoon-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/changanmoon)
