@@ -25,7 +25,7 @@ This is my personal GitHub account. 請多多指教。
 ### 📝 My GitHub Gists
 [Check out here](https://gist.github.com/changanmoon)
 
-### 📫 Contact me!
+### 💬 My Social Accounts
 [![X](https://img.shields.io/badge/@changanmoon-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/changanmoon)
 [![Quora](https://img.shields.io/badge/Tiffany%20Fung-b92b27?style=flat-square&logo=quora&logoColor=white)](https://www.quora.com/profile/Tiffany-Fung-46)
 [![Mastodon](https://img.shields.io/badge/changanmoon-6364ff?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@changanmoon)
@@ -37,3 +37,7 @@ This is my personal GitHub account. 請多多指教。
 ### 🔢 Special counters
 ![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) </br></br>
 ![Moe-Counter](https://count.getloli.com/get/@changanmoon?theme=asoul)
+
+### 📫 Leave me a message!
+Click the picture below: </br></br>
+[![](https://chat-room.moeworld.top/room/@changanmoon/svg?width=600&height=150&limit=20&theme=light&title=changanmoon@github:%20~&fontSize=13)](https://chat-room.moeworld.top/room/@changanmoon?title=Tiffany's%20chat%20room)
