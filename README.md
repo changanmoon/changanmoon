@@ -38,6 +38,5 @@ This is my personal GitHub account. 請多多指教。
 ![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) </br></br>
 ![Moe-Counter](https://count.getloli.com/get/@changanmoon?theme=asoul)
 
-### 📫 Leave me a message!
-Click the picture below: </br></br>
-[![](https://chat-room.moeworld.top/room/@changanmoon/svg?width=600&height=150&limit=20&theme=light&title=changanmoon@github:%20~&fontSize=13)](https://chat-room.moeworld.top/room/@changanmoon?title=Tiffany's%20chat%20room)
+### 📫 Contact me!
+<p><a href="mailto:changanmoon@proton.me">changanmoon@proton.me</a></p>
