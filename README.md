@@ -31,12 +31,10 @@ This is my personal GitHub account. 請多多指教。
 [![Mastodon](https://img.shields.io/badge/changanmoon-6364ff?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@changanmoon)
 [![Bluesky](https://img.shields.io/badge/changanmoon-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/changanmoon.bsky.social)
 [![Telegram](https://img.shields.io/badge/changanmoon-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/changanmoon)
-</br></br>
-<a href="https://www.buymeacoffee.com/changanmoon" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+### 📫 Contact me!
+<p><a href="mailto:changanmoon@proton.me">changanmoon@proton.me</a></p>
 
 ### 🔢 Special counters
 ![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) </br></br>
 ![Moe-Counter](https://count.getloli.com/get/@changanmoon?theme=asoul)
-
-### 📫 Contact me!
-<p><a href="mailto:changanmoon@proton.me">changanmoon@proton.me</a></p>
