@@ -4,7 +4,7 @@ This is my personal GitHub account. 請多多指教。
 ### 🙋‍♀️ A bit about myself
 - I mainly focus on macOS/iOS development, but I'm also interested in Android stuff
 - Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
-- Currently working on: **Chinese (Hong Kong) `zh-HK` localization**
+- **Currently working on: Chinese (Hong Kong) `zh-HK` localization**
 
 ### 💻 Platforms I'm using now
 [![macOS](https://img.shields.io/badge/macOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
