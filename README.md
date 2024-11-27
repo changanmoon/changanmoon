@@ -15,7 +15,7 @@ This is my personal GitHub account. 請多多指教。
 [![Android](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 
 ### 🌱 Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,swift,bash,html,css,js)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,swift,bash,html,css,js)]()
 
 ### 📝 My GitHub Gists
 [Check out here](https://gist.github.com/changanmoon)
