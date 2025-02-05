@@ -31,4 +31,5 @@ This is my personal GitHub account. 請多多指教。
 
 ### 🔢 Special counters
 ![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) </br></br>
+![changanmoon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changanmoon&show_icons=true&layout=compact) </br></br>
 ![Moe-Counter](https://count.getloli.com/get/@changanmoon?theme=asoul)
