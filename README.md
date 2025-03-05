@@ -20,14 +20,11 @@ This is my personal GitHub account. 請多多指教。
 ### 📝 My GitHub Gists
 [Check out here](https://gist.github.com/changanmoon)
 
-### 💬 My Social Accounts
+### 📫 Contact me!
 [![X](https://img.shields.io/badge/@changanmoon-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/changanmoon)
 [![Mastodon](https://img.shields.io/badge/changanmoon-6364ff?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@changanmoon)
 [![Bluesky](https://img.shields.io/badge/changanmoon-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/changanmoon.bsky.social)
 [![Telegram](https://img.shields.io/badge/changanmoon-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/changanmoon)
-
-### 📫 Contact me!
-<p><a href="mailto:changanmoon@proton.me">changanmoon@proton.me</a></p>
 
 ### 🔢 Special counters
 ![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) &nbsp; &nbsp;
