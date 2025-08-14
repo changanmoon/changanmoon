@@ -27,6 +27,6 @@ This is my personal GitHub account. 請多多指教。
 [![Telegram](https://img.shields.io/badge/changanmoon-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/changanmoon)
 
 ### 🔢 Special counters
-![changanmoon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=changanmoon&show_icons=true&count_private=true) &nbsp; &nbsp;
+![changanmoon's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=changanmoon&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true) &nbsp; &nbsp;
 ![changanmoon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changanmoon&show_icons=true&layout=compact) </br></br>
 ![Moe-Counter](https://count.getloli.com/get/@changanmoon?theme=asoul)
