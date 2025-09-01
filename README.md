@@ -1,10 +1,10 @@
 ### 👋 ¡Hola todos!
-This is my personal GitHub account. 請多多指教。
+This is my personal GitHub account. 請多指教。
 
 ### 🙋‍♀️ A bit about myself
 - I mainly focus on macOS/iOS development, but I'm also interested in Android stuff
 - Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
-- **Currently working on: Chinese (Hong Kong) `zh-HK` localization**
+- **Currently working on: Chinese (Hong Kong) `zh-HK` localization** on Apple platforms
 
 ### 💻 Platforms I'm using now
 [![macOS](https://img.shields.io/badge/macOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
@@ -26,7 +26,7 @@ This is my personal GitHub account. 請多多指教。
 [![Bluesky](https://img.shields.io/badge/changanmoon-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/changanmoon.bsky.social)
 [![Telegram](https://img.shields.io/badge/changanmoon-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/changanmoon)
 
-### 🔢 Special counters
+### 🔢 Special personal counters
 ![changanmoon's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=changanmoon&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true) &nbsp; &nbsp;
 ![changanmoon's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changanmoon&show_icons=true&layout=compact) </br></br>
 ![Moe-Counter](https://count.getloli.com/get/@changanmoon?theme=asoul)
