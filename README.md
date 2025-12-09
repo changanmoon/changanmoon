@@ -7,12 +7,12 @@ This is my personal GitHub account. 請多指教。
 - **Currently working on: Chinese (Hong Kong) `zh-HK` localization** on Apple platforms
 
 ### 💻 Platforms I'm using now
-[![macOS](https://img.shields.io/badge/macOS%2015-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu%2023.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
-[![Fedora](https://img.shields.io/badge/Fedora%2037-294172?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
-[![iOS](https://img.shields.io/badge/iOS%2018-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
-[![iPadOS](https://img.shields.io/badge/iPadOS%2018-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ipados/)
-[![Android](https://img.shields.io/badge/Android%2015-3ddc84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+[![macOS](https://img.shields.io/badge/macOS%2026-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu%2024.04%20LTS-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://releases.ubuntu.com/)
+[![Fedora](https://img.shields.io/badge/Fedora%2043-294172?style=flat-square&logo=fedora&logoColor=white)](https://fedoraproject.org/workstation/)
+[![iOS](https://img.shields.io/badge/iOS%2026-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ios/)
+[![iPadOS](https://img.shields.io/badge/iPadOS%2026-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/ipados/)
+[![Android](https://img.shields.io/badge/Android%2016-3ddc84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 
 ### 🌱 Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,swift,bash,html,css,js)]()
