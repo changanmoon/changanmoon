@@ -5,6 +5,7 @@ This is my personal GitHub account. 請多指教。
 - I mainly focus on macOS/iOS development, but I'm also interested in Android stuff
 - Trilingual (to some extent) -> `{zh: 中文, en: English, es: Español}`
 - **Currently working on: Chinese (Hong Kong) `zh-HK` localization** on Apple platforms
+ ([Take a look](https://github.com/changanmoon/changanmoon/blob/main/localization_projects.md) on my contributions!)
 
 ### 💻 Platforms I'm using now
 [![macOS](https://img.shields.io/badge/macOS%2026-4f4f4f?style=flat-square&logo=apple&logoColor=white)](https://www.apple.com/macos/)
