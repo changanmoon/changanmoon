@@ -25,7 +25,6 @@ This is my personal GitHub account. 請多指教。
 [![X](https://img.shields.io/badge/@changanmoon-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/changanmoon)
 [![Mastodon](https://img.shields.io/badge/changanmoon-6364ff?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@changanmoon)
 [![Bluesky](https://img.shields.io/badge/changanmoon-0285ff?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/changanmoon.bsky.social)
-[![Telegram](https://img.shields.io/badge/changanmoon-26a5e4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/changanmoon)
 
 ### 🔢 Special personal counters
 ![changanmoon's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=changanmoon&count_private=true&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true&show_owner=true) &nbsp; &nbsp;
