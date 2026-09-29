@@ -8,3 +8,4 @@ Here are some projects that contain localizations made by myself, especially on 
 - [Pearcleaner](https://github.com/alienator88/Pearcleaner), a free, source-available and fair-code licensed Mac app cleaner
 - [AltTab](https://github.com/lwouis/alt-tab-macos), Windows alt-tab on macOS
 - [CotEditor](https://github.com/coteditor/CotEditor), lightweight Plain-Text Editor for macOS
+- [Sparkle](https://github.com/sparkle-project/Sparkle), a software update framework for macOS
